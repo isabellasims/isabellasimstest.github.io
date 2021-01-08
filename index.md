@@ -1,8 +1,7 @@
-## Portfolio
-
 ---
 
-### Category Name 1 
+### Projects
+###### You will find the majority of my work on GitHub, but for now, take a look at some of the web-friendly stuff I've created!
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
