@@ -7,14 +7,14 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <!--
   I enjoy using code creatively to solve problems and tell stories with data. I am also passionate about product development, love to work in teams, and am eager to learn new things.
-  <br><br>
+  <br style="line-height: 10px" />
   -->
   <small>
   <a href="https://www.linkedin.com/in/isabellasims/">View My LinkedIn Profile</a>
   <small>
-  <br><br>
+  <br style="line-height: 10px" />
   <a href="https://software-and-stuff.medium.com/">Check Out My Medium Page</a> 
-  
+  <br style="line-height: 10px" />
   <a href="https://github.com/isabellasims">Browse My Github</a> 
 
   
